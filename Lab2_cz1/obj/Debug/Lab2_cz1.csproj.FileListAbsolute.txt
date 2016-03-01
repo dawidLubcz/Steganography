@@ -1,0 +1,13 @@
+E:\Repozytoria\N2_Informatyka\Semestr_3\Rozproszone\Lab2_cz1\Lab2_cz1\bin\Debug\Lab2_cz1.exe.config
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\bin\Debug\Lab2_cz1.exe.config
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\bin\Debug\Lab2_cz1.exe
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\bin\Debug\Lab2_cz1.pdb
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\obj\Debug\Lab2_cz1.csprojResolveAssemblyReference.cache
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\obj\Debug\Lab2_cz1.Form1.resources
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\obj\Debug\Lab2_cz1.Properties.Resources.resources
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\obj\Debug\Lab2_cz1.csproj.GenerateResource.Cache
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\obj\Debug\Lab2_cz1.exe
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz1\Lab2_cz1\obj\Debug\Lab2_cz1.pdb
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz2\Lab2_cz1\bin\Debug\Lab2_cz1.exe.config
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz2\Lab2_cz1\obj\Debug\Lab2_cz1.exe
+E:\Repozytoria\N2_Informatyka\Semestr_3\Stegonografia\Lab2_cz2\Lab2_cz1\obj\Debug\Lab2_cz1.pdb
